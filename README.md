@@ -37,4 +37,4 @@ Posterior samples from Bayesian Inference on 6 LMXB sources for the estimation o
 
 
 * See, https://arxiv.org/abs/2104.00263 for details.
-* Please add our publication (https://arxiv.org/abs/2104.00263) into the reference list in your publications if you use the posteiror samples in this repository.
+* If you use the posteiror samples in this repository, Please add our publication (https://arxiv.org/abs/2104.00263) into the reference list in your publications.
