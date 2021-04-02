@@ -26,7 +26,8 @@ Posterior samples from Bayesian Inference on 6 LMXB sources for the estimation o
     * R_NS : a radius of a neutron star
     * r_ph : a photosphere radius 
   * Distance, D : Gaussian distribution based on indepedent observations
-    * for EXO 1745-248, KS 1731-260, the distance prior is flat due to the observation uncertainties.
+    * For EXO 1745-248, KS 1731-260, the distance prior is flat due to the observation uncertainties.
+    * For 4U 1820-30, there are 2 independent observations for luminosity distance. In current study, 8.4+/-0.6 kpc (higher value) was used for simplicity without considering double Gaussian distribution. The result with double Gaussian distribution for the luminosity distance will be updated later.
 
 * Posterior samples
   * Among 2*10^6 MCMC samples, 19800 independent samples for each source are collected to avoid the correlation between neighbor samples during MCMC steps.
