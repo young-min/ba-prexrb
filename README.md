@@ -1,4 +1,4 @@
-# ba-prexrb
+# Measuring Masses and Radii of Neutron Stars in Low-Mass X-ray Binaries: Effects of Atmospheric Composition and Touchdown Radius
 Posterior samples from Bayesian Inference on 6 LMXB sources for the estimation of Masses and Radii of Neutron Stars.
 
 (Not released yet. The public release of the posterior samples will be conducted soon.)
