@@ -33,7 +33,7 @@ Posterior samples from Bayesian Inference on 6 LMXB sources for the estimation o
   * Among 2*10^6 MCMC samples, 19800 independent samples for each source are collected to avoid the correlation between neighbor samples during MCMC steps.
   * column names
     * radius [km] , mass [Msun], x (hydrogen mass fraction) [non-dim.], fc (color-correction factor) [non-dim.], fns (NS spin frequency) [Hz], h (= 2 R_NS/r_ph) [non-dim.], distance [kpc]
-    * The spin frequencies (fns) of 3 sources (SAX J1748.9-2021, KS 1731-260, 4U 1608-52) were measured by independent observations. In those cases, "fns" was fixed, and "fns" was not included in posterior samples. See the above priors.
+    * For SAX J1748.9-2021, KS 1731-260, 4U 1608-52, "fns" was not included in posterior samples becase the "fns" of 3 sources were measured by independent observations and it was fixed in our estimation. See the above priors.
 
 
 * See, https://arxiv.org/abs/2104.00263 for details.
