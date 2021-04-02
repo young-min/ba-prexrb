@@ -1,5 +1,6 @@
 # ba-prexrb
 Posterior samples from Bayesian Inference on 6 LMXB sources for the estimation of Masses and Radii of Neutron Stars.
+(Not released yet. The public release of the posterior samples will be conducted soon.)
 
 * source type: Photosphere Radius Expansion (PRE) X-ray Bursters (XRBs)
 * basic algorithm for MCMC: Metropolis-Hastings algorithm
